@@ -1,0 +1,2 @@
+# ROS-Lane-detection-
+This is personal project for which I am working with my School prof Dr Kiwon Sohn .In this ROS Lane Detection project, we apply computer vision techniques of OpenCV library, program is written in c++ on ROS indigo platform. The Computer vision techniques applied  to augment video output with a detected road lane and Highlight it. The video was taken from the Youtube city ride and captured using the VLC media player as Deskstop record.
